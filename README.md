@@ -1,6 +1,6 @@
 ##¡Hola! 👋 Me llamo Iván, un saludo.
 
-Data Analyst en formación apasionado por encontrar historias en los datos.
+Data Analyst en formación, apasionado por encontrar historias en los datos.
 
 Actualmente cursando un bootcamp intensivo donde aprendo Python, SQL y visualización de datos. Mi objetivo es ayudar a empresas a tomar mejores decisiones basadas en análisis rigurosos.
 
