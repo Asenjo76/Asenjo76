@@ -4,7 +4,7 @@ Data Analyst en formación, apasionado por encontrar historias en los datos.
 
 Actualmente cursando un bootcamp intensivo donde aprendo Python, SQL y visualización de datos. Mi objetivo es ayudar a empresas a tomar mejores decisiones basadas en análisis rigurosos.
 
-Vengo de un pasado donde hacia cosas como estas por mera aficion y entretenimiento y creo que ha llegado el momento de poner a prueba mi pensamiento analítico al mundo de los datos.
+Vengo de un pasado donde hacía cosas como estas por mera afición y entretenimiento y creo que ha llegado el momento de poner a prueba mi pensamiento analítico al mundo de los datos.
 
 🛠️ Habilidades técnicas:
 
@@ -44,9 +44,9 @@ Siempre abierta a colaborar en proyectos de análisis de datos y aprender de la 
 
 ## ⚡ Dato curioso
 
-- 📚 Soy aficionado a la tecnologia y la informatica general, me gusta viajar y todo sobre actualidad
-- ☕ Nada como un cafe para arrancar el dia con decision.
-- 🌍 He vivido en siempre dentro de mi zona rural
-- 🎮 Fan de Star wars y videojuegos, en cuanto al aire libre practico el tiro con arco tradicional
+- 📚 Soy aficionado a la tecnología y la informática general, me gusta viajar y todo sobre actualidad.
+- ☕ Nada como un cafe para arrancar el dia con decisión.
+- 🌍 He vivido en siempre dentro de mi zona rural.
+- 🎮 Fan de Star wars y videojuegos, en cuanto al aire libre practico el tiro con arco tradicional.
 
  
