@@ -1,16 +1,53 @@
-## Hola 👋 me llamo Iván
+  ¡Hola! 👋 Me llamo Iván, un saludo.
 
-<!--
-**Asenjo76/Asenjo76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst en formación apasionado por encontrar historias en los datos.
 
-Here are some ideas to get you started:
+Actualmente cursando un bootcamp intensivo donde aprendo Python, SQL y visualización de datos. Mi objetivo es ayudar a empresas a tomar mejores decisiones basadas en análisis rigurosos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Vengo de un pasado donde hacia cosas como estas por mera aficion y entretenimiento y creo que ha llegado el momento de poner a prueba mi pensamiento analítico al mundo de los datos.
+
+##🛠️ Habilidades técnicas:
+
+Lenguajes: Python, SQL  
+Análisis: Google Sheets, Excel  
+Visualización: (en progreso)  
+Otros: Git, GitHub, VS Code
+
+##🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+##📚 Actualmente aprendiendo:
+
+- 🐍 Python para análisis de datos (Pandas, NumPy)
+- 🗃️ SQL y bases de datos relacionales
+- 📊 Visualización de datos con Tableau
+- 🤖 Introducción a Machine Learning
+
+ ##🚀 Proyectos destacados
+
+### [Atlas - Exploración de Datos](enlace-al-repo)
+Análisis descriptivo de datos de biblioteca usando Google Sheets. Primer proyecto del bootcamp.
+
+### [Kepler - Python Básico](enlace-al-repo)
+Aprendizaje de fundamentos de Python aplicados al análisis de datos.
+
+## 📫 Cómo contactarme
+
+- **LinkedIn:** [linkedin.com/in/tu-perfil](URL)
+- **Email:** tu.email@ejemplo.com
+- **GitHub:** Estás aquí 😊
+
+Siempre abierta a colaborar en proyectos de análisis de datos y aprender de la comunidad.
+
+## ⚡ Dato curioso
+
+- 📚 Leo un libro de no ficción al mes
+- ☕ El café es mi combustible de código
+- 🌍 He vivido en 3 países diferentes
+- 🎮 Fan de puzzles y juegos de estrategia
+
+ 
