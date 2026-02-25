@@ -29,7 +29,7 @@ Otros: Git, GitHub, VS Code
 
 🚀 Proyectos destacados
 
-### [Atlas - Exploración de Datos](enlace-al-repo)
+### [Atlas - Exploración de Datos](https://github.com/Asenjo76/Atlas-.git)
 Análisis descriptivo de datos de biblioteca usando Google Sheets. Primer proyecto del bootcamp.
 
 ### [Kepler - Python Básico](enlace-al-repo)
