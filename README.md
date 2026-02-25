@@ -45,7 +45,7 @@ Siempre abierta a colaborar en proyectos de análisis de datos y aprender de la 
 ## ⚡ Dato curioso
 
 - 📚 Soy aficionado a la tecnología y la informática general, me gusta viajar y todo sobre actualidad.
-- ☕ Nada como un cafe para arrancar el dia con decisión.
+- ☕ Nada como un café para arrancar el dia con decisión.
 - 🌍 He vivido en siempre dentro de mi zona rural.
 - 🎮 Fan de Star wars y videojuegos, en cuanto al aire libre practico el tiro con arco tradicional.
 
